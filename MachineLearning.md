@@ -9,3 +9,6 @@
 
 ### Natural Language Processing
 - https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial
+
+### Amazing ML resource here
+- https://chrisalbon.com/
