@@ -12,3 +12,6 @@
 
 ### Amazing ML resource here
 - https://chrisalbon.com/
+
+### Cool RNN
+- https://www.kaggle.com/raoulma/ny-stock-price-prediction-rnn-lstm-gru
