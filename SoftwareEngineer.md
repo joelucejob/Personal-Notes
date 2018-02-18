@@ -1,5 +1,5 @@
 ### Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-- https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0132350882&pd_rd_r=4JNNM7JZEHQE8KN7Q9N8&pd_rd_w=43ytQ&pd_rd_wg=FZkl1&psc=1&refRID=4JNNM7JZEHQE8KN7Q9N8
+- https://read.amazon.com/kp/embed?asin=B001GSTOAM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_xytIAbPYZKPEP
 
 ### Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
 - https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0134494164&pd_rd_r=H7YYR2YVYFYGWG5389DR&pd_rd_w=IZa6P&pd_rd_wg=2du2E&psc=1&refRID=H7YYR2YVYFYGWG5389DR
