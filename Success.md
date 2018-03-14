@@ -1,3 +1,5 @@
+Collection of books I've read on how to succeed and focus.
+
 ### The Dip: A Little Book That Teaches You When to Quit (and When to Stick) by Seth Godin
 
 ### Getting Things Done: The Art of Stress-Free Productivity by David Allen
