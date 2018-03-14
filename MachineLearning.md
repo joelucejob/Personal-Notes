@@ -18,3 +18,6 @@
 
 ### Cool RNN
 - https://www.kaggle.com/raoulma/ny-stock-price-prediction-rnn-lstm-gru
+
+### Random Forest Explained
+- https://www.youtube.com/watch?v=eM4uJ6XGnSM
