@@ -1,3 +1,6 @@
+### Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 
+- http://a.co/dDJlcde
+
 ### Python Machine Learning book by Sebastian
 - https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_7?ie=UTF8&qid=1510722722&sr=8-7&keywords=machine+learning
 
