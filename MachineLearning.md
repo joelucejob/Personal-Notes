@@ -21,3 +21,6 @@
 
 ### Random Forest Explained
 - https://www.youtube.com/watch?v=eM4uJ6XGnSM
+
+### RNN
+- https://www.youtube.com/watch?v=LHXXI4-IEns
