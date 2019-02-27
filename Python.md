@@ -9,3 +9,5 @@
 
 ### Elements of Programming Interviews in Python
 - https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=sr_1_1?ie=UTF8&qid=1510723068&sr=8-1&keywords=elements+of+programming+interviews+python
+
+### Python Tricks the Book: A Buffet of Awesome Python Features by Dan Bader
